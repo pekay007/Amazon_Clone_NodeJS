@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "clonepekay",
+    "default": "clonepekay"
+  }
+}
